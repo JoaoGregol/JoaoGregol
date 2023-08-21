@@ -4,7 +4,7 @@ Me chamo João Victor Gregol, e atualmente sou estudante de Sistemas de Informa�
 
 Hello there, My name is João Victor Gregol and i´m a IT Student!
 
-## Como me encontrar / How to reach me?
+## Como me encontrar | How to reach me?
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovictorgregol/)
  <a href = "mailto:joaovictorggregol@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
