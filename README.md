@@ -1,4 +1,4 @@
-### Bem vindo! / Welcome! 🤙
+### Bem vindo! |  Welcome! 🤙
 
 Me chamo João Victor Gregol, e atualmente sou estudante de Sistemas de Informação.
 
@@ -9,7 +9,7 @@ Hello there, My name is João Victor Gregol and i´m a IT Student!
  <a href = "mailto:joaovictorggregol@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
-## Estudando / Learning
+## Estudando | Learning
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -18,7 +18,7 @@ Hello there, My name is João Victor Gregol and i´m a IT Student!
 
 </div>
 
-## Outros conhecimentos básicos / Languages and tools
+## Outros conhecimentos básicos | Languages and tools
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
