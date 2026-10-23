@@ -1,6 +1,6 @@
 <h1 align="center">João Victor Gregol</h1>
 <p align="center">
-  <b>Desenvolvedor Full Stack, a caminho do Full Cycle</b><br/>
+  <b>Desenvolvedor, a caminho do Full Cycle</b><br/>
   React · NestJS · TypeScript · Node.js<br/>
   📍 Joinville, SC — Brasil
 </p>
